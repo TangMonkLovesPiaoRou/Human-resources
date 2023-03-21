@@ -3,10 +3,10 @@ import App from './App.vue'
 import router  from './router'
 import { globalState, permission  } from './types/index'
 import components from '@/components/index'
+import i18n from '@/lang/index'
 import 'element-plus/dist/index.css'
 import './styles/iconfont/iconfont.css'
 import ElementPlus from 'element-plus'
-import i18n from '@/lang/index'
 import './permission'
 let instance:any;
 function render(props?: any) {
@@ -25,7 +25,6 @@ if (window.__POWERED_BY_QIANKUN__) {
 if (!window.__POWERED_BY_QIANKUN__) {
   render();
 }
-
 
 export async function bootstrap() {
   console.log('bootstrap');

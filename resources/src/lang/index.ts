@@ -2,7 +2,7 @@ import { createI18n  } from 'vue-i18n'
 import { settings } from '@/types/index'
 import { elementPulsLocale } from '@/settings'
 // 引入element-plus语言, 注意: 最外层的name、el属性独属于element-plus，不要覆盖
-settings.language = Object.keys(window.Language).reduce((s: any, v: any) => {
+settings.language = Object.keys(window.Language || {}).reduce((s: any, v: any) => {
     s[v] = {
         ...elementPulsLocale[v],
         ...s[v]

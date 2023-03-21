@@ -1,0 +1,39 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "goods_content": "我们将会在这个教程中开发一个小游戏。你可能并不打算做游戏开发，然后就直接跳过了这个教程——但是不妨尝试一下！你将在该教程中学到关于构建 React 应用的基础知识，掌握这些知识后，你将会对 React 有更加深刻的理解。",
+      "goods_money": 108,
+      "goods_count": 1,
+      "goods_selected": true
+    },
+    {
+      "id": 2,
+      "goods_content": "华硕 TUF电竞小金刚 27英寸170Hz 电脑显示器 2K显示器IPS HDR 游戏显示屏 VG27AQL1A【小金刚max】2K 170Hz React 应用的基础知识，掌握这些知识后，你将会对 React 有更加深刻的理解。",
+      "goods_money": 120,
+      "goods_count": 1,
+      "goods_selected": false
+    },
+    {
+      "id": 3,
+      "goods_content": "特步儿童泳衣女童连体裙摆游泳衣女大中小童宝宝温泉泳装女 粉色 React 应用的基础知识，掌握这些知识后，你将会对 React 有更加深刻的理解。",
+      "goods_money": 58,
+      "goods_count": 2,
+      "goods_selected": false
+    },
+    {
+      "id": 4,
+      "goods_content": "石头（roborock）G10S Pure扫地机器人上下水新升级自动洗拖布自集尘大吸力扫拖一体机 G10S Pure React 应用的基础知识，掌握这些知识后，你将会对 React 有更加深刻的理解。",
+      "goods_money": 32.2,
+      "goods_count": 1,
+      "goods_selected": false
+    },
+    {
+      "id": 5,
+      "goods_content": "Redmi Note11T Pro+ 5G 天玑8100 144HzLCD旗舰直屏120W快充 8GB+128GB时光蓝 5G智能手机 小米红米 React 应用的基础知识，掌握这些知识后，你将会对 React 有更加深刻的理解。",
+      "goods_money": 4500,
+      "goods_count": 1,
+      "goods_selected": false
+    }
+  ]
+}
